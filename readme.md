@@ -49,3 +49,10 @@ Nuestro objetivo es proporcionar a las empresas las herramientas y servicios de 
     - De aca tomamos la idea de la venta de packs que agrupen servicios con distintas caracteristicas.
 - https://www.inviu.com.ar
     - Nos inspiramos en esta página por su diseño simple, animaciones suaves y adaptabilidad a diferentes dispositivos. También nos llamó la atención su consistencia en la paleta de colores, utilizándola de manera coherente en toda la página, desde logotipos hasta textos e infografías.
+	
+## Configuración del proyecto
+
+1. Ejecutar el script de base de datos
+2. En el archivo ubicado en: .\src\database\config.js configurar usuario y contraseña de la base de datos.
+3. Ejecutar en consola el comando: npm i
+4. Correr el proyecto
